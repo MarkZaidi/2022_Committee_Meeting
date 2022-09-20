@@ -1,3 +1,6 @@
+# List of peer reviewed publications, manuscripts in preparation, and other academic works of literature.
+## Name is bolded to denote authorship position
+
 Alexander M, **Zaidi M (co-first author)**, McKee T, Pavelko K, Taner T, Vaughan L, Wouters B. Development Of A Tissue-Based Classifier Of Allograft Inflammation Using Imaging Mass Cytometry. Manuscript in preparation for American Society of Nephrology. September 2022.
 
 Farooqui N, **Zaidi M (co-first author)**, Vaughan L, McKee T, Ahsam E, Pavelko K, Villasboas J, Markovic S, Taner T, Leung N, Dong H, Alexander M, Herrmann S. Cytokines and Immune Cell Phenotype in Acute Kidney Injury Associated with Immuno Checkpoint Inhibitors. Manuscript submitted to Kidney International Reports. September 2022.
